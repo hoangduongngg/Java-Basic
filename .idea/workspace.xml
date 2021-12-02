@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4b43c29-5f17-40b2-8813-5f0afc6934bd" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/src/j05018_bang_diem_hocsinh.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/src/j05018_bang_diem_hocsinh.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/src/j05018_bang_diem_hocsinh/HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/src/j05018_bang_diem_hocsinh/HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05018_Bang_diem_HocSinh/src/j05018_bang_diem_hocsinh/J05018_Bang_diem_HocSinh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/src/j05018_bang_diem_hocsinh/J05018_Bang_diem_HocSinh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/src/j05020_sapxep_sinhvien_theolop.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/src/j05020_sapxep_sinhvien_theolop.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/src/j05020_sapxep_sinhvien_theolop/J05020_SapXep_SinhVien_theolop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/src/j05020_sapxep_sinhvien_theolop/J05020_SapXep_SinhVien_theolop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05020_SapXep_SinhVien_theolop/src/j05020_sapxep_sinhvien_theolop/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/src/j05020_sapxep_sinhvien_theolop/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/src/j05021_sapxep_sinhvien_theoma.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/src/j05021_sapxep_sinhvien_theoma.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/src/j05021_sapxep_sinhvien_theoma/J05021_SapXep_SinhVien_theoma.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/src/j05021_sapxep_sinhvien_theoma/J05021_SapXep_SinhVien_theoma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05021_SapXep_SinhVien_theoma/src/j05021_sapxep_sinhvien_theoma/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/src/j05021_sapxep_sinhvien_theoma/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/nbproject/private/private.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/nbproject/private/private.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/nbproject/private/private.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/nbproject/private/private.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/src/j05022_lietke_sinhvien_theolop.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/src/j05022_lietke_sinhvien_theolop.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/src/j05022_lietke_sinhvien_theolop/J05022_LietKe_SinhVien_theoLop.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/src/j05022_lietke_sinhvien_theolop/J05022_LietKe_SinhVien_theoLop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05022_LietKe_SinhVien_theoLop/src/j05022_lietke_sinhvien_theolop/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/src/j05022_lietke_sinhvien_theolop/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/src/j05023_lietke_sinhvien_theokhoa.rar" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/src/j05023_lietke_sinhvien_theokhoa.rar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/src/j05023_lietke_sinhvien_theokhoa/J05023_LietKe_SinhVien_theoKhoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/src/j05023_lietke_sinhvien_theokhoa/J05023_LietKe_SinhVien_theoKhoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05023_LietKe_SinhVien_theoKhoa/src/j05023_lietke_sinhvien_theokhoa/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/src/j05023_lietke_sinhvien_theokhoa/SinhVien.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/build.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/build.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/manifest.mf" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/manifest.mf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/nbproject/build-impl.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/nbproject/build-impl.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/nbproject/genfiles.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/nbproject/genfiles.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/nbproject/project.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/nbproject/project.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/nbproject/project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/nbproject/project.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/src/j05024_lietke_sinhvien_theonganh/J05024_LietKe_SinhVien_theoNganh.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/src/j05024_lietke_sinhvien_theonganh/J05024_LietKe_SinhVien_theoNganh.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Xau_ky_tu/J05024_LietKe_SinhVien_theoNganh/src/j05024_lietke_sinhvien_theonganh/SinhVien.java" beforeDir="false" afterPath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/src/j05024_lietke_sinhvien_theonganh/SinhVien.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21g9Qe0fG9VH7GAKBURPUEHK7E6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\CODE\Java - OOP\Java-Basic\Mang doi tuong" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4b43c29-5f17-40b2-8813-5f0afc6934bd" name="Changes" comment="" />
+      <created>1638351849403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1638351849403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Contest/Contest.iml" filepath="$PROJECT_DIR$/Contest/Contest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/DS_DoanhNgiep/DS_DoanhNgiep.iml" filepath="$PROJECT_DIR$/Vao_ra_file/DS_DoanhNgiep/DS_DoanhNgiep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/DS_SV/DS_SV.iml" filepath="$PROJECT_DIR$/Vao_ra_file/DS_SV/DS_SV.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/DanhSach_ThucTap/DanhSach_ThucTap.iml" filepath="$PROJECT_DIR$/Vao_ra_file/DanhSach_ThucTap/DanhSach_ThucTap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/Danh_sach_luu_tru/Danh_sach_luu_tru.iml" filepath="$PROJECT_DIR$/Vao_ra_file/Danh_sach_luu_tru/Danh_sach_luu_tru.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/Danh_sach_mon_hoc/Danh_sach_mon_hoc.iml" filepath="$PROJECT_DIR$/Vao_ra_file/Danh_sach_mon_hoc/Danh_sach_mon_hoc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/Danh_sach_san_pham_2/Danh_sach_san_pham_2.iml" filepath="$PROJECT_DIR$/Vao_ra_file/Danh_sach_san_pham_2/Danh_sach_san_pham_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap trinh java co ban/HELLOFILE/HELLOFILE.iml" filepath="$PROJECT_DIR$/Lap trinh java co ban/HELLOFILE/HELLOFILE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/In ra so float/In ra so float.iml" filepath="$PROJECT_DIR$/Vao_ra_file/In ra so float/In ra so float.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap trinh java co ban/J01009_tong_giai_thua/J01009_tong_giai_thua.iml" filepath="$PROJECT_DIR$/Lap trinh java co ban/J01009_tong_giai_thua/J01009_tong_giai_thua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap trinh java co ban/J01021_Tinh_luy_thua/J01021_Tinh_luy_thua.iml" filepath="$PROJECT_DIR$/Lap trinh java co ban/J01021_Tinh_luy_thua/J01021_Tinh_luy_thua.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap trinh java co ban/J01022_Xau_nhi_phan/J01022_Xau_nhi_phan.iml" filepath="$PROJECT_DIR$/Lap trinh java co ban/J01022_Xau_nhi_phan/J01022_Xau_nhi_phan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xau_ky_tu/J03004_ChuanHoa_XauKyTu_1/J03004_ChuanHoa_XauKyTu_1.iml" filepath="$PROJECT_DIR$/Xau_ky_tu/J03004_ChuanHoa_XauKyTu_1/J03004_ChuanHoa_XauKyTu_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xau_ky_tu/J03005_ChuanHoa_XauKyTu_2/J03005_ChuanHoa_XauKyTu_2.iml" filepath="$PROJECT_DIR$/Xau_ky_tu/J03005_ChuanHoa_XauKyTu_2/J03005_ChuanHoa_XauKyTu_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05004_Danh_sach_SV_2/J05004_Danh_sach_SV_2.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05004_Danh_sach_SV_2/J05004_Danh_sach_SV_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05005_Danh_sach_SinhVien3/J05005_Danh_sach_SinhVien3.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05005_Danh_sach_SinhVien3/J05005_Danh_sach_SinhVien3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05006_DanhSach_NhanVien/J05006_DanhSach_NhanVien.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05006_DanhSach_NhanVien/J05006_DanhSach_NhanVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05007_DanhSach_NhanVien_Sapxep/J05007_DanhSach_NhanVien_Sapxep.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05007_DanhSach_NhanVien_Sapxep/J05007_DanhSach_NhanVien_Sapxep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05011_Tinh_gio/J05011_Tinh_gio.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05011_Tinh_gio/J05011_Tinh_gio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/J05018_Bang_diem_HocSinh.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05018_Bang_diem_HocSinh/J05018_Bang_diem_HocSinh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/J05020_SapXep_SinhVien_theolop.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05020_SapXep_SinhVien_theolop/J05020_SapXep_SinhVien_theolop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/J05021_SapXep_SinhVien_theoma.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05021_SapXep_SinhVien_theoma/J05021_SapXep_SinhVien_theoma.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/J05022_LietKe_SinhVien_theoLop.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05022_LietKe_SinhVien_theoLop/J05022_LietKe_SinhVien_theoLop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/J05023_LietKe_SinhVien_theoKhoa.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05023_LietKe_SinhVien_theoKhoa/J05023_LietKe_SinhVien_theoKhoa.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/J05024_LietKe_SinhVien_theoNganh.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05024_LietKe_SinhVien_theoNganh/J05024_LietKe_SinhVien_theoNganh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang doi tuong/J05081_Danh_sach_mat_hang/J05081_Danh_sach_mat_hang.iml" filepath="$PROJECT_DIR$/Mang doi tuong/J05081_Danh_sach_mat_hang/J05081_Danh_sach_mat_hang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quan he giua cac lop/J06003_Quan_ly_nhom_BT/J06003_Quan_ly_nhom_BT.iml" filepath="$PROJECT_DIR$/Quan he giua cac lop/J06003_Quan_ly_nhom_BT/J06003_Quan_ly_nhom_BT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/J07001_Doc_File_VanBan/J07001_Doc_File_VanBan.iml" filepath="$PROJECT_DIR$/Vao_ra_file/J07001_Doc_File_VanBan/J07001_Doc_File_VanBan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/J07002_Tinh_tong_File/J07002_Tinh_tong_File.iml" filepath="$PROJECT_DIR$/Vao_ra_file/J07002_Tinh_tong_File/J07002_Tinh_tong_File.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/J07004_So_khac_nhau_File1/J07004_So_khac_nhau_File1.iml" filepath="$PROJECT_DIR$/Vao_ra_file/J07004_So_khac_nhau_File1/J07004_So_khac_nhau_File1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/J07010_DanhSach_SinhVien/J07010_DanhSach_SinhVien.iml" filepath="$PROJECT_DIR$/Vao_ra_file/J07010_DanhSach_SinhVien/J07010_DanhSach_SinhVien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/J07021_Chuan_hoa_ho_ten_file/J07021_Chuan_hoa_ho_ten_file.iml" filepath="$PROJECT_DIR$/Vao_ra_file/J07021_Chuan_hoa_ho_ten_file/J07021_Chuan_hoa_ho_ten_file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ung dung Java Collection/J08020_Kiem_tra_day_ngoac_dung/J08020_Kiem_tra_day_ngoac_dung.iml" filepath="$PROJECT_DIR$/Ung dung Java Collection/J08020_Kiem_tra_day_ngoac_dung/J08020_Kiem_tra_day_ngoac_dung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ung dung Java Collection/J08021_Day_ngoac_dung_dai_nhat/J08021_Day_ngoac_dung_dai_nhat.iml" filepath="$PROJECT_DIR$/Ung dung Java Collection/J08021_Day_ngoac_dung_dai_nhat/J08021_Day_ngoac_dung_dai_nhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ung dung Java Collection/J08024_So_09/J08024_So_09.iml" filepath="$PROJECT_DIR$/Ung dung Java Collection/J08024_So_09/J08024_So_09.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Java-Basic.iml" filepath="$PROJECT_DIR$/.idea/Java-Basic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Quan he giua cac lop/JavaApplication19/JavaApplication19.iml" filepath="$PROJECT_DIR$/Quan he giua cac lop/JavaApplication19/JavaApplication19.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Khai_bao_lop_va_doi_tuong/Khai_bao_lop_va_doi_tuong.iml" filepath="$PROJECT_DIR$/Khai_bao_lop_va_doi_tuong/Khai_bao_lop_va_doi_tuong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lap trinh java co ban/Lap trinh java co ban.iml" filepath="$PROJECT_DIR$/Lap trinh java co ban/Lap trinh java co ban.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/Liet_ke_theo_thu_tu_xuat_hien/Liet_ke_theo_thu_tu_xuat_hien.iml" filepath="$PROJECT_DIR$/Vao_ra_file/Liet_ke_theo_thu_tu_xuat_hien/Liet_ke_theo_thu_tu_xuat_hien.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/Loai_phong/Loai_phong.iml" filepath="$PROJECT_DIR$/Vao_ra_file/Loai_phong/Loai_phong.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mang/Mang.iml" filepath="$PROJECT_DIR$/Mang/Mang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/So_nguyen_to_lon_nhat/So_nguyen_to_lon_nhat.iml" filepath="$PROJECT_DIR$/Vao_ra_file/So_nguyen_to_lon_nhat/So_nguyen_to_lon_nhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vao_ra_file/So_nguyen_to_nho_nhat/So_nguyen_to_nho_nhat.iml" filepath="$PROJECT_DIR$/Vao_ra_file/So_nguyen_to_nho_nhat/So_nguyen_to_nho_nhat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Xau_ky_tu/Xau_ky_tu.iml" filepath="$PROJECT_DIR$/Xau_ky_tu/Xau_ky_tu.iml" />
+    </modules>
+  </component>
+</project>
