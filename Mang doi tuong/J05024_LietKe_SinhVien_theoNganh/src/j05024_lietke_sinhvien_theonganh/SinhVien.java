@@ -9,7 +9,7 @@ package j05024_lietke_sinhvien_theonganh;
  *
  * @author hoangduongngg
  */
-public class SinhVien implements Comparable<SinhVien>{
+public class SinhVien implements Comparable<SinhVien> {
     private String Ma, Ten, Lop, Mail, Khoa, Nganh;
 
     public SinhVien(String Ma, String Ten, String Lop, String Mail) {

@@ -17,7 +17,7 @@ public class J05023_LietKe_SinhVien_theoKhoa {
     /**
      * @param args the command line arguments
      */
-    public static void main(String[] args) {
+    public static void main (String[] args) {
         Scanner in = new Scanner(System.in);
         ArrayList <SinhVien> ds = new ArrayList<>();
         int t = Integer.parseInt(in.nextLine());
