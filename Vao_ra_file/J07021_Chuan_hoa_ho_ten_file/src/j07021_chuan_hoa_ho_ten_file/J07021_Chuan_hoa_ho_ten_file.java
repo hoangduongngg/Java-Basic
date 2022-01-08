@@ -28,7 +28,6 @@ public class J07021_Chuan_hoa_ho_ten_file {
             res.append(" ");
         }
         return "" + res;
-
     }
     //Cach cua Tri
     //    public static void ChuanHoa (String s) {
